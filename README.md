@@ -1,4 +1,4 @@
-## Olá! Eu sou o Osmar Lima 🖐️
+## Olá! Eu sou o Osmar Lima 😎
 
 ![Osmar GitHub stats](https://github-readme-stats.vercel.app/api?username=osmarlimaag&show_icons=true&theme=dracula&count_private=true)
 
