@@ -1,5 +1,11 @@
 ## Olá! Eu sou o Osmar Lima 😎
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmarlimaag)](https://github.com/osmarlimaag/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmarlimaag&size_weight=0.1&count_weight=0.1)
+
+
+
 ![Osmar GitHub stats](https://github-readme-stats.vercel.app/api?username=osmarlimaag&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
